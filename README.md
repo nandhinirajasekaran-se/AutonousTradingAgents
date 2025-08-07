@@ -56,3 +56,5 @@ Polygon.io (optional)
 
 Brave Search (optional)
 
+![Trading Flow](assets/Dashboard1.png)
+![Dashboard view](assets/Dashboard.png)
